@@ -130,6 +130,15 @@ hr {
     margin-bottom: 30px;
 }
 
+/* This sets the id comment the li and image element to a display of block, wdith of 20%, a float to the left and finally the margin to the left and right of 5% */
+#comments li img {
+    display: block;
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 /* This sets the footer element to a display of block and clear to both */
 /* Footer Styles */
 footer {
